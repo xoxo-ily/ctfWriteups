@@ -12,7 +12,8 @@ any redirections?
 We start with a login page: 
 
 <img width="620" alt="image" src="https://github.com/xoxo-ily/ctfWriteups/assets/68173773/a1b07a7d-ec21-4746-b7a3-d295d6a72a70">
-<br><br>
+<br>
+
 We log in with username `test` and password `test!` like it tells us to, and get to this page:
 <br><br>
 <img width="952" alt="image" src="https://github.com/xoxo-ily/ctfWriteups/assets/68173773/26b20790-ae08-414c-8ee0-d2cc4b0c5718">
