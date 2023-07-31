@@ -17,7 +17,7 @@ Your opponent is the Imp. The source is available [here](https://artifacts.picoc
 </ol>
 
 ## Solution
-To lose in CoreWars, we just need to make a warrior that kills itself everytime, with the `dat` command that bombs itself.
+To lose in CoreWars, we just need to make a warrior that kills itself everytime, which can be done with the `dat` command.
 <br>
 Changing a line in `imp.red` does the trick:
 
