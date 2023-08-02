@@ -17,7 +17,7 @@ So I used a [cool website](https://stegonline.georgeom.net/extract) to extract t
 <br><br>
 ![image](https://github.com/xoxo-ily/ctfWriteups/assets/68173773/5f3df806-7496-44dc-9397-3ac298dbfe0a)
 <br><br>
-A [cool book]() was extracted, with the flag in it
+A [cool book](./Ninja-and-Prince-Genji-Ukiyoe-Utagawa-Kunisadaflag.dat) was extracted, with the flag in it
 <br><br>
 ![image](https://github.com/xoxo-ily/ctfWriteups/assets/68173773/55b8f482-7595-4674-a9a8-35d211787f27)
 # picoCTF{15_y0ur_que57_qu1x071c_0r_h3r01c_572ad5fe}
