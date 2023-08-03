@@ -11,8 +11,8 @@ I forgot the key to my safe but this [file](https://artifacts.picoctf.net/c/289/
 Download and try to decompile the file.
 
 ## Solution
-doing `strings SafeOpener.class` gives u the flag, no reversing needed...
+doing `strings - SafeOpener.class | grep picoCTF` gives you the flag, no reversing needed
 
-![image](https://github.com/xoxo-ily/ctfWriteups/assets/68173773/b969aecd-498c-4e50-b297-4cf038a742fd)
+<img width="673" alt="image" src="https://github.com/xoxo-ily/ctfWriteups/assets/68173773/6fab9dca-8d77-4406-8658-acb5767c4869">
 
 # picoCTF{SAf3_0p3n3rr_y0u_solv3d_it_de45efd6}
