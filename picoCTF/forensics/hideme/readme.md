@@ -14,4 +14,5 @@ Using `binwalk` on the image reveals that it's hiding another image called `secr
 <br><br>
 We can then open this image and find that it contains the flag:
 <br><br>
-![flag](images/flag.png)
+![flag](flag.png)
+# picoCTF{Hiddinng_An_imag3_within_@n_ima9e_dc2ab58f}
