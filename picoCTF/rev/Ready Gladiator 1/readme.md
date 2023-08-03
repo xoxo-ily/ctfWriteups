@@ -14,7 +14,7 @@ To get the flag, you must beat the Imp at least once out of the many rounds.
 ### Hints
 You may be able to find a viable warrior in beginner docs
 ## Solution
-We can accomplish this using the "Imp Gate" in the CoreWars docs:
+We can accomplish this using the [Imp Gate](impgate.red) in the CoreWars docs:
 
 ![image](https://github.com/xoxo-ily/ctfWriteups/assets/68173773/f878257a-ea18-4a29-a135-2de129b0573e)
 
