@@ -7,8 +7,8 @@ picoCTF 2023
 Try reversing this file? Can ya?
 I forgot the password to this [file](https://artifacts.picoctf.net/c/276/ret). Please find it for me?
 ## Solution
-just doing `cat ret` gives you the flag 
+The flag is coded into the program, so just `strings ret | grep picoCTF` gives us the flag
 <br><br>
-![image](https://github.com/xoxo-ily/ctfWriteups/assets/68173773/a8632c3d-7a05-4872-b00a-ca1af168533b)
+<img width="633" alt="image" src="https://github.com/xoxo-ily/ctfWriteups/assets/68173773/1fcc673f-8dc1-4cec-9f3c-6bcde516fb24">
 
 # picoCTF{3lf_r3v3r5ing_succe55ful_9ae85289}
