@@ -19,7 +19,7 @@ Your opponent is the Imp. The source is available [here](https://artifacts.picoc
 ## Solution
 To lose in CoreWars, we just need to make a warrior that kills itself everytime, which can be done with the `dat` command.
 <br>
-Changing a line in `imp.red` does the trick:
+After making this change in the original source, this [new warrior](imp.red) does the trick:
 
 ![image](https://github.com/xoxo-ily/ctfWriteups/assets/68173773/89890d73-344e-463b-9a54-bc6460581dd5)
 
