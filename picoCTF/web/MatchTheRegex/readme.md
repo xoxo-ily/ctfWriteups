@@ -9,10 +9,11 @@ The website is running here.
 ### Hint ###
 Access the webpage and try to match the regular expression associated with the text field
 ## Solution ##
-The website asks for an input:
+The website asks for an input: 
 
 <img width="306" alt="image" src="https://github.com/xoxo-ily/ctfWriteups/assets/68173773/883b4daa-43c6-428f-9478-322927fdc190">
 <br><br>
+
 There's a comment in the source code that tells us that the regular expression pattern is `^p.....F!?`
 <br><br>
 <img width="421" alt="image" src="https://github.com/xoxo-ily/ctfWriteups/assets/68173773/d38c4ae6-f265-4feb-94ca-17d1e0e08320">
