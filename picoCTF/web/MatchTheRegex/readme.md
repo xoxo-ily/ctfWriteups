@@ -25,3 +25,5 @@ Thus, submitting something like `picoCTF` gives you the flag:
 <img width="502" alt="image" src="https://github.com/xoxo-ily/ctfWriteups/assets/68173773/0b4331e8-b6b2-4a2f-aeb7-363908799ef1">
 <br><br>
 Other things that would work include `picoCTF!`, `piiiiiF`, etc.
+## Resources
+[mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions)
