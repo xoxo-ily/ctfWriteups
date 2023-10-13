@@ -1,7 +1,8 @@
 # Forensics
 ## 2023
-* pts: [FindAndOpen](FindAndOpen)
-* pts: [MSB](MSB)
-* pts: [PcapPoisoning](PcapPoisoning)
-* pts: [hideme](hideme)
-* pts: [who is it](who%20is%20it)
+* 100 pts: [who is it](who%20is%20it)
+* 100 pts: [PcapPoisoning](PcapPoisoning)
+* 100 pts: [hideme](hideme)
+* 200 pts: [FindAndOpen](FindAndOpen)
+* 200 pts: [MSB](MSB)
+
