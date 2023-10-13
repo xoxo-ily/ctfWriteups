@@ -1,8 +1,8 @@
-alphabet = sorted(list('qwertyuiopasdfghjklzxcvbnm'))
+alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 reverse = list(reversed(alphabet))
 
 def decrypt(msg):
-    new_msg = []
+    new_msg = ''
     msg = msg.split(' ')
     for word in msg:
         for letter in list(word):
@@ -11,11 +11,10 @@ def decrypt(msg):
                 new_letter = reverse[index]
                 if letter.isupper():
                     new_letter = new_letter.upper()
-                new_msg.append(new_letter)
+                new_msg += new_letter
             else:
-                new_msg.append(letter)
-        new_msg.append(' ')
-    new_msg = "".join(new_msg)
+                new_msg += letter
+        new_msg += ' '
     print(new_msg)
 
 decrypt(input('enter encrypted message> '))
