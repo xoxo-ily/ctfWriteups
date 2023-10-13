@@ -26,5 +26,5 @@ It decrypts to `This is the secret: picoCTF{R34DING_LOKd_`, which contains the f
 <br>
 The packets before and after it contain hints: "Could the flag have been splitted?" and "Maybe try checking the other file?"
 <br>
-Using the first half of the flag to open the zip file, we get a single file containing the flag
+Using the first half of the flag as the password to open the zip file, we get a single file containing the flag
 # picoCTF{R34DING_LOKd_fil56_succ3ss_5ed3a878}
