@@ -9,7 +9,7 @@ Take a look at this CSR file [here](https://artifacts.picoctf.net/c/423/readmyce
 ### Hints ###
 Download the certificate signing request and try to read it.
 ## Solution ##
-After decoding the encrypted text with base64, we get this
+The certificate looks like it's encrypted in base64. Decoding it gives us
 ```
 0‚§0‚�0<1&0$UpicoCTF{read_mycert_57f58832}10U)	ctfPlayer0‚"0
 	*†H†÷
